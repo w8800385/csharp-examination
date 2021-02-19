@@ -1,0 +1,5 @@
+E:\code\ConsolCalculator\1\ConsolCalculator.exe
+E:\code\ConsolCalculator\1\ConsolCalculator.dll
+E:\code\ConsolCalculator\1\ConsolCalculator.deps.json
+E:\code\ConsolCalculator\1\ConsolCalculator.runtimeconfig.json
+E:\code\ConsolCalculator\1\ConsolCalculator.pdb
